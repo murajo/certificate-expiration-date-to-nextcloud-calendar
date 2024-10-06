@@ -1,0 +1,11 @@
+nextcloud:
+  # Specify the URL of the NextCloud Calendar Manage API.
+  api_url: "http://<your-nextcloud-calendar-mangae-api-url>:<port>"
+
+  # Specify the name of the NextCloud calendar.
+  calendar_name: "<your-calendar-name>"
+
+# Specify the list of domains to check.
+domains:
+  - example.com
+  - example.org
